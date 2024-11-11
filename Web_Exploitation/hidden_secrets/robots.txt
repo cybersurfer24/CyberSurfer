@@ -1,3 +1,0 @@
-# CyberSurfer hidden page
-User-agent: *
-Disallow: /secret-page/
